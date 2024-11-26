@@ -448,10 +448,10 @@
     "@types/yargs" "^15.0.0"
     chalk "^3.0.0"
 
-"@lm-ticketing/sdk@^1.0.11":
-  version "1.0.11"
-  resolved "https://registry.yarnpkg.com/@lm-ticketing/sdk/-/sdk-1.0.11.tgz#296ad2526e1ddab20ce60867b4f0590731a91648"
-  integrity sha512-BgycJ4GC3wZURU65b6p/R/6/X9/boxgZpJPnvluXvSq9BjQD33+8jKF5ZGoFLu0VwahifeToAE5gzoZ3WDFEDQ==
+"@lm-ticketing/sdk@^1.0.12":
+  version "1.0.12"
+  resolved "https://registry.yarnpkg.com/@lm-ticketing/sdk/-/sdk-1.0.12.tgz#1c569d2302e54f8f2e9ab96c9dbd614d1cc8df27"
+  integrity sha512-vO5ITzBlv1ycADkg4bG0TVdZyobXZYfec8cDTSZdx3wkFdkAV7kPIM66MvxoxPD5j9KJ8W/XaiErhfxOfgjCRg==
   dependencies:
     "@types/cookie-session" "^2.0.39"
     "@types/express" "^4.17.6"
@@ -1500,9 +1500,9 @@ decamelize@^1.1.2, decamelize@^1.2.0:
   integrity sha1-9lNNFRSCabIDUue+4m9QH5oZEpA=
 
 decode-uri-component@^0.2.0:
-  version "0.2.0"
-  resolved "https://registry.yarnpkg.com/decode-uri-component/-/decode-uri-component-0.2.0.tgz#eb3913333458775cb84cd1a1fae062106bb87545"
-  integrity sha1-6zkTMzRYd1y4TNGh+uBiEGu4dUU=
+  version "0.2.2"
+  resolved "https://registry.yarnpkg.com/decode-uri-component/-/decode-uri-component-0.2.2.tgz#e69dbe25d37941171dd540e024c444cd5188e1e9"
+  integrity sha512-FqUYQ+8o158GyGTrMFJms9qh3CqTKvAqgqsTnkLI8sKu0028orqBhxNMFkFen0zGyg6epACD32pjVk58ngIErQ==
 
 dedent@^0.7.0:
   version "0.7.0"
